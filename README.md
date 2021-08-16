@@ -17,4 +17,5 @@ $ npm run start
 $ npm run generate
 ```
 
+you view demo, check out [learnnuxtapp](https://learnnuxtapp.herokuapp.com/).
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
